@@ -8,11 +8,11 @@ Trabalho como:
 
 Áreas de interesse: Front end • JavaScript • UX.
 
-<div height="180em">
+<div>
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasjose3&theme=radical_icons=true)
 </div>
 
-<div height="180em">
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjose3&layout=compact)](https://github.com/douglasjose3/github-readme-stats)
 </div>
 
