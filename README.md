@@ -1,7 +1,7 @@
-## Olá! 👋
+## Olá! Sou o Douglas, apaixonado por tecnologia, amante de design e fotógrafo por natureza.
 
-Trabalho com: 
-💻 Engenheiro Front-end (html, css, java script, react e vite).
+Trabalho como: 
+💻 Engenheiro Front-end (html, css, javascript, react e vite).
 📕 Designer editorial desde 2000.
 📷 Fotógrafo profissional a 12 anos.
 👨🏻‍🏫 Professor de fotografia por 9 anos.
