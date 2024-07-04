@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Designer editorial desde 2000, fotógrafo profissional a 12 anos e professor de fotografia por 9 anos. Áreas de interesse: Front end • JavaScript • UX.
+
 <!--
 **Douglasjose3/Douglasjose3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
