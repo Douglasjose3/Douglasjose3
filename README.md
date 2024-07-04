@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasjose3&theme=radical_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=douglasjose3&repo=github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasjose3)](https://github.com/douglasjose3/github-readme-stats)
