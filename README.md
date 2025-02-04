@@ -3,7 +3,7 @@
 Sou um desenvolvedor focado em Front-End, apaixonado por tecnologia, design e experiência do usuário. Atualmente, estou aprimorando minhas habilidades em React, JavaScript e tecnologias modernas para construção de interfaces dinâmicas e responsivas.
 Além da programação, tenho experiência em design gráfico, fotografia e edição de imagens, áreas que me ajudam a criar interfaces visuais mais intuitivas e atraentes.
 
-💡 Interesses:
+💡 <strong>Interesses:</strong> <br />
 ✔ Desenvolvimento web (React, JavaScript, HTML, CSS) <br />
 ✔ Design de interfaces e UX/UI <br />
 ✔ Fotografia e edição de imagens <br />
