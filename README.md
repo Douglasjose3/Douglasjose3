@@ -1,10 +1,14 @@
 ## Olá! Sou o Douglas, apaixonado por tecnologia, amante de design e fotógrafo por natureza.
 
-Trabalho como: 
-💻 Engenheiro Front end (html, css, javascript, react e vite). 
-📕 Designer editorial desde 2000. 
-📷 Fotógrafo profissional há 12 anos. 
-👨🏻‍🏫 Professor de fotografia por 9 anos.
+Sou um desenvolvedor focado em Front-End, apaixonado por tecnologia, design e experiência do usuário. Atualmente, estou aprimorando minhas habilidades em React, JavaScript e tecnologias modernas para construção de interfaces dinâmicas e responsivas.
+
+Além da programação, tenho experiência em design gráfico, fotografia e edição de imagens, áreas que me ajudam a criar interfaces visuais mais intuitivas e atraentes.
+
+💡 Interesses:
+✔ Desenvolvimento web (React, JavaScript, HTML, CSS)
+✔ Design de interfaces e UX/UI
+✔ Fotografia e edição de imagens
+✔ Aprendizado contínuo e desafios técnicos
 
 <div dislplay: block>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasjose3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
