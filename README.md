@@ -19,6 +19,6 @@ Além da programação, tenho experiência em design gráfico, fotografia e edi�
 
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasjose3&theme=radical_icons=true)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=douglasjose3&theme=radical_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjose3&layout=compact)](https://github.com/douglasjose3/github-readme-stats)
 -->
